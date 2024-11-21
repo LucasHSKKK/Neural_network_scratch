@@ -6,3 +6,6 @@ biases = [2, 3, 0.5]
 
 output = np.dot(weights, inputs) + biases
 print(output)
+
+
+#new features coming
